@@ -1,7 +1,7 @@
 package = "wtf-action-json_response"
 version = "0.1-1"
 source = {
-   url = "git+https://github.com/honeybot/wtf-action-json_response"",
+   url = "git+https://github.com/honeybot/wtf-action-json_response",
    tag = "0.1"
 }
 description = {
